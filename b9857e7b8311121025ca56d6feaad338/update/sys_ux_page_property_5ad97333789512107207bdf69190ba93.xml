@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Suggestion Box WorkSpace">d2d973331f951210dda8cee6944e21a3</page>
+        <required_translations>[ {
+  "message" : "New Suggestion",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 13:46:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5ad97333789512107207bdf69190ba93</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1556053_sugges_0">b9857e7b8311121025ca56d6feaad338</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">b9857e7b8311121025ca56d6feaad338</sys_scope>
+        <sys_update_name>sys_ux_page_property_5ad97333789512107207bdf69190ba93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 13:46:16</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1556053_sugges_0.d2d973331f951210dda8cee6944e21a3.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Suggestion"},"routeInfo":{"route":"record","fields":{"table":"x_1556053_sugges_0_suggestion","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1556053_sugges_0_suggestion","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ad97333789512107207bdf69190ba93"/>
+</record_update>

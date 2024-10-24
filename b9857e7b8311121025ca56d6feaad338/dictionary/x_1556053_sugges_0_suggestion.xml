@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e5132bb38315121025ca56d6feaad3eb" label="Suggestion" max_length="40" name="x_1556053_sugges_0_suggestion" type="collection">
+    <element db_object_id="e5132bb38315121025ca56d6feaad3eb" label="Suggestion" max_length="40" name="x_1556053_sugges_0_suggestion" text_index="true" type="collection">
         <element label="Submisson Date" max_length="40" name="submisson_date" type="glide_date"/>
         <element label="Suggestion" max_length="40" name="suggestion" type="string"/>
     </element>
