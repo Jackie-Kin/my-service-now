@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Suggestion" language="en" table="x_1556053_sugges_0_suggestion">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Suggestion</label>
+            <language>en</language>
+            <name>x_1556053_sugges_0_suggestion</name>
+            <plural>Suggestions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-24 12:06:42</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Suggestion</sys_name>
+            <sys_package display_value="Suggestion Box" source="x_1556053_sugges_0">b9857e7b8311121025ca56d6feaad338</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Suggestion Box">b9857e7b8311121025ca56d6feaad338</sys_scope>
+            <sys_update_name>sys_documentation_x_1556053_sugges_0_suggestion__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-24 12:06:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

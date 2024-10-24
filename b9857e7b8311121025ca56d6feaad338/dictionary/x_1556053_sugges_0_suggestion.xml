@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e5132bb38315121025ca56d6feaad3eb" label="Suggestion" max_length="40" name="x_1556053_sugges_0_suggestion" type="collection">
+        <element label="Suggestion" max_length="40" name="suggestion" type="string"/>
+    </element>
+</database>
